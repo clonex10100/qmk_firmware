@@ -1,0 +1,41 @@
+Base layer is colemak, uses the two layer switch keys to access upper and lower. While in upper or lower press space to go even deeper.
+
+
+Purpose of each layer
+
+Base:
+Colemak layer used for typing
+
+Lower:
+
+Symbols
+
+Lower2:
+
+
+
+
+
+Raise:
+
+Number row plus directional navigation. May add mousenav
+
+
+
+Raise2:
+
+
+
+
+
+Lower + Raise:
+Workspace navigation
+
+
+
+
+Gaming is a toggle base, replaces colemak with a layer designed for gaming. Has a key to go back to colemak. As of now has no layers on top.
+
+
+
+Todo. Add numberpad. Not sure if toggle or mod
